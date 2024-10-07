@@ -82,7 +82,7 @@ body {
                 }
             }li:hover {
                 background-color: var(--Green);
-                a{
+                a {
                     color: var(--Grey-900);
                 }
             }
