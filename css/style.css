@@ -90,11 +90,14 @@ body {
 
 /* Media  - Mobile: 375px */
 @media (max-width: 375px) {
-    .main .container {
-        width: 340px;
-        border-radius: 20px;
-        .links ul li {
-            width: 280px;
+    .main {
+    margin: 60px auto;
+        .container {
+            width: 330px;
+            border-radius: 20px;
+            .links ul li {
+                width: 280px;
+            }
         }
     }
 }
