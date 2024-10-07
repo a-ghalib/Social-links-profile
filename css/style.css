@@ -53,6 +53,7 @@ body {
                 text-align: center;
                 font-size: 14px;
                 color: var(--Green);
+                letter-spacing: 1px;
             }
             p {
                 margin: 25px 0 20px 0;
