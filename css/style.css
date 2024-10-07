@@ -53,6 +53,7 @@ body {
                 text-align: center;
                 font-size: 14px;
                 color: var(--Green);
+                font-weight: unset;
                 letter-spacing: 1px;
             }
             p {
